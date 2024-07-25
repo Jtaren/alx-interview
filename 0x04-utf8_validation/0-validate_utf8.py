@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """UTF-8 Validation"""
 
+
 def check_next_bytes(data, index, n):
     """ checks next n bytes of data if it is a valid utf-8 """
 
